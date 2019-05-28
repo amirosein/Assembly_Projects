@@ -7,7 +7,7 @@
   Turning on LEDs with different switches. Working with ports/pins. Reading pins and writing on ports. 
   
 ## Project 2
-  Writing a matrix key-board. Using 7 Segments and LCD.
+  Writing a matrix based key-board. Using 7 Segments and LCD.
   
 ## Project 3
   Using Timer/Counter of ATMega 16 in different modes like Normal and CTC and turning on and off LEDs in certain points.
