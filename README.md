@@ -1,5 +1,5 @@
 # Assembly_Projects
- Assembly projects implemented for ATMEGA16
+ Assembly projects implemented for ATMEGA 16
 
 # Projects
 
