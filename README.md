@@ -16,7 +16,7 @@
   Using ADC (Analog to Digital Comparator) in ATMEGA16
 
 ## Project 5
-  Using USART in ATMEGA16 and asynchronise connection with another device (PC)
+  Using USART in ATMEGA 16 and asynchronise connection with another device (PC)
 
 ## Project 6
   Interrupt management using 74LS244 input buffer and 82C82 latch connected to ATMEGA16. Interrupt routin to give services to a keyboard and printer for printing the pushed button. 
